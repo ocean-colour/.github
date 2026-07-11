@@ -37,6 +37,7 @@ the work targets data from NASA's **PACE** mission and complementary sensors
 | [**IOPtics**](https://github.com/ocean-colour/IOPtics) | Analysis and comparison of inherent-optical-property (IOP) algorithms — for, and hopefully by, the community. |
 | [**xqaa**](https://github.com/ocean-colour/xqaa) | An algorithm for inherent-optical-property retrievals (a Quasi-Analytical Algorithm variant). |
 | [**bing**](https://github.com/ocean-colour/bing) | Bayesian INferences with Gordon coefficients — bio-optical parameter retrieval via Bayesian inference. |
+| [**retrieve-or-bust**](https://github.com/ocean-colour/retrieve-or-bust) | Our last, best effort at IOP retrievals. |
 | [**correct-atmosphere**](https://github.com/ocean-colour/correct-atmosphere) | Python code to perform atmospheric corrections for ocean colour. |
 | [**PAB**](https://github.com/ocean-colour/PAB) | PACE and BGC-Argo matchup analyses for validation. |
 | [**habs**](https://github.com/ocean-colour/habs) | Tools and analyses for harmful algal blooms (HABs). |
